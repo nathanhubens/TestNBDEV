@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "TestNBDEV"
+  site-url: "https://nathanhubens.github.io/TestNBDEV"
+  description: "This is a test"
+  repo-branch: main
+  repo-url: "https://github.com/nathanhubens/TestNBDEV"
